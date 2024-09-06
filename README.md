@@ -67,16 +67,19 @@
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
+<!--
 <h2 align="left">GitHub Analytics ⚙️</h2>
+
 
 <p align="center">
 <a href="https://github.com/ultraodi">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ultraodi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ultraodi&layout=compact&langs_count=8&theme=dark"/>
 </a>
+</p>-->
 <!--    <br>
   <img src="https://github-contribution-stats.vercel.app/api/?username=ultraodi&theme=dark" alt="Clinton's GitHub Contribution Graph"/> -->
-</p>
+<!--<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>-->
 
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
