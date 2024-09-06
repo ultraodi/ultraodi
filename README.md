@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Clinton Odinamadu</h1>
-<h3 align="center">I am an</h3>
+<h3 align="center">I am an aspiring</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines= Aspiring+Software+Developer" alt="Aspiring Software Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Software+Developer" alt="Software Developer">
   </a>
 </p>
 
