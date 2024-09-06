@@ -1,11 +1,5 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Kelvin Odinamadu</h1>
-<h3 align="center">A passionate software developer and data enthusiast in my fourth year at Brock University for Computer Science.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Clinton Odinamadu</h1>
+<h3 align="center">A passionate software developer in my third year at Carleton University for Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kelvin229&label=Profile%20views&color=0e75b6&style=flat" alt="Kelvin229" /> </p>
 
