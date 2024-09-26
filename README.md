@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=white&labelColor=00599C)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white&labelColor=000000)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=white&labelColor=F2F4F9)
