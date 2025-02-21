@@ -18,13 +18,13 @@
 <h2 align="left">Tech Stack 🛠️🚀</h2>
 
 
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=awsamplify&logoColor=white&labelColor=FF9900)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white&labelColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=white&labelColor=00599C)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white&labelColor=000000)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=white&labelColor=F2F4F9)
@@ -42,9 +42,7 @@
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=api&logoColor=white&labelColor=FF6C37)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=white&labelColor=181717)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=white&labelColor=21759B)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=white&labelColor=2C2255)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=awsamplify&logoColor=white&labelColor=FF9900)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=white&labelColor=CC2927)
