@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align='center'>currently in my third year at Carleton University.</h3>
+<h3 align='center'>currently in my fourth year at Carleton University.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultraodi&label=Profile%20views&color=0e75b6&style=flat" alt="ultraodi" /> </p> -->
 
@@ -19,11 +19,18 @@
 
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=awsamplify&logoColor=white&labelColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure&logoColor=white&labelColor=0078D4)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white&labelColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=white&labelColor=7B42BC)
+![Terragrunt](https://img.shields.io/badge/-Terragrunt-000000?style=flat&logo=terraform&logoColor=white&labelColor=404040)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=white&labelColor=326CE5)
+![Helm](https://img.shields.io/badge/-Helm-000000?style=flat&logo=helm&logoColor=white&labelColor=0F1689)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apachekafka&logoColor=white&labelColor=231F20)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white&labelColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white&labelColor=000000)
@@ -31,7 +38,6 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white&labelColor=092E20)
 ![ExpressJS](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=white&labelColor=039BE5)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
@@ -39,7 +45,6 @@
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=mui&logoColor=white&labelColor=007FFF)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=white&labelColor=764ABC)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=white&labelColor=009688)
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=api&logoColor=white&labelColor=FF6C37)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=white&labelColor=181717)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=white&labelColor=2C2255)
@@ -47,17 +52,11 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=white&labelColor=CC2927)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-000000?style=flat&logo=microsoft-365&logoColor=white&labelColor=D83B01)
 ![Agile Scrum](https://img.shields.io/badge/-Agile_Scrum-000000?style=flat&logo=scrumpoker&logoColor=white&labelColor=E34F26)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=white&labelColor=FF6C37)
-![SharePoint](https://img.shields.io/badge/-SharePoint-000000?style=flat&logo=microsoft-sharepoint&logoColor=white&labelColor=007A5A)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=white&labelColor=430098)
-![Cyclic](https://img.shields.io/badge/-Cyclic-000000?style=flat&logo=cyclic&logoColor=F7DF1E)
 ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=black)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=white&labelColor=181717)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=ffffff)
-![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat&logo=junit5&logoColor=white&labelColor=A2B5CD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=black&labelColor=FCC624)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_Idea-000000?style=flat&logo=intellij-idea&logoColor=white&labelColor=FF1493)
